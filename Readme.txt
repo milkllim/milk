@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
+Theme Name: Imperial
+Theme URL: https://bootstrapmade.com/imperial-free-onepage-bootstrap-theme/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
